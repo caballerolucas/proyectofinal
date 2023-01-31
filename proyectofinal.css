@@ -1,0 +1,136 @@
+
+body{
+    background-color:rgb(244, 246, 247);
+}
+
+div#general{
+    width: 250px;
+    height: 335px;
+    background-color: rgb(100, 14, 100);
+}
+
+
+
+h1 { 
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 80px;
+    margin-bottom: -60px; 
+    margin-left: 583px; 
+    margin-right: 10px;  
+     font-weight: bold;
+     color:#607d8b
+}
+h2 {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 55px;
+    margin-bottom: -140px; 
+    margin-left: 628px;
+    color:black
+}
+h3 {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 370px;
+    margin-bottom: -425px; 
+    margin-left: 440px;
+    color: cadetblue;
+}
+
+#estudios {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 290px;
+    margin-bottom: -310px; 
+    margin-left: 440px;
+    color: cadetblue
+}
+#habilidades {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 510px;
+    margin-bottom: -525px; 
+    margin-left: 440px;
+    color: cadetblue
+}
+
+p {
+    color:aliceblue;
+}
+
+.proyecto {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: -190px;
+    margin-bottom: 175px; 
+    margin-left: 440px;
+    font-weight: normal;
+    width: 0px;
+    height: 40px;
+    color:black;
+}
+
+.estudios {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: -370px;
+    margin-bottom: -225px; 
+    margin-left: 440px;
+    font-weight: normal;
+    width: 450px;
+    height: 90px;
+    color:black;
+}
+
+.habilidades {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 360px;
+    margin-left: 195px;
+    font-weight: normal;
+    width: 450px;
+    color:black;
+}
+
+.datos {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    width: 250px;
+    color:black;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .readMore_btn {
+    background-color: #a17ea1;
+    border: none;
+    margin-left:-170px;
+    border-radius: 40px;
+    color: black;
+    padding:  10px 10px;
+    font-size: 1,em;
+    box-shadow: 0px 0px 10px 0p #a17ea1;
+    cursor: pointer;
+  }
+  
+  .readMore_btn:hover {
+    box-shadow: none;
+    background-color: rgb(86, 170, 209);
+    color: black;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 3.05s;
+  }
+  
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
