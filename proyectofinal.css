@@ -87,7 +87,7 @@ p {
     font-family: 'Nunito', sans-serif;
     font-family: 'Open Sans', sans-serif;
     margin-top: 360px;
-    margin-left: 80px;
+    margin-left: 190px;
     font-weight: normal;
     width: 450px;
     color:black;
@@ -97,7 +97,7 @@ p {
     font-family: 'Nunito', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-weight: normal;
-    margin-left: -120px;
+    margin-left: -10px;
     width: 250px;
     color:black;
 }
@@ -112,7 +112,7 @@ p {
   .readMore_btn {
     background-color: #a17ea1;
     border: none;
-    margin-left:-280px;
+    margin-left:-175px;
     border-radius: 40px;
     color: black;
     padding:  10px 10px;
